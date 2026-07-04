@@ -10,7 +10,7 @@ bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
 # Укажи здесь свой Telegram ID
-OWNER_ID = 123456789
+OWNER_ID = 8760172354
 
 
 @dp.message(Command("start"))
